@@ -1,0 +1,16 @@
+Kali Linux
+
+│
+
+├── Scanner
+│      ├── Trivy
+│      ├── Syft
+│      └── Semgrep
+│
+└── AWS
+       ├── Lambda
+       ├── Step Functions
+       ├── EventBridge
+       ├── CloudWatch
+       ├── S3
+       └── SNS

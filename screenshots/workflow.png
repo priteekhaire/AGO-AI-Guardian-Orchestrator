@@ -1,0 +1,61 @@
+Start
+
+↓
+
+Run Trivy
+
+↓
+
+Run Syft
+
+↓
+
+Run Semgrep
+
+↓
+
+Upload Reports to S3
+
+↓
+
+CloudWatch Event
+
+↓
+
+EventBridge
+
+↓
+
+Step Functions
+
+↓
+
+Lambda
+
+↓
+
+Risk Score
+
+↓
+
+MITRE Mapping
+
+↓
+
+Gemini AI
+
+↓
+
+Generate Report
+
+↓
+
+Store Report in S3
+
+↓
+
+SNS Notification
+
+↓
+
+End
