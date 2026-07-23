@@ -886,65 +886,10 @@ Docker
 
 # 👨‍💻 Author
 
-## Shivam Balaji
+## Pritee Khaire 
 
 Cybersecurity Engineer | DevSecOps | Cloud Security | AWS | Docker | Security Automation
 
-### Connect with Me
-
-- LinkedIn: **(Add your LinkedIn Profile)**
-- GitHub: **https://github.com/priteekhaire**
-
----
-
-# ⭐ If you found this project interesting
-
-If this project helped you understand AI-powered security orchestration, consider giving it a ⭐ on GitHub.
-
-It motivates me to continue building open-source cybersecurity projects.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
-Feel free to use, modify, and learn from this project for educational purposes.
-
----
-
-<div align="center">
-
-## ⭐ Thank You for Visiting ⭐
-
-**Building Secure • Intelligent • Automated Cloud Security Solutions**
-
-Made with ❤️ using Python, AWS, Docker and AI
-
-</div>
-
-# 🛣️ Roadmap
-
-The following enhancements are planned for future versions of AGO.
-
-| Status | Feature |
-|---------|----------|
-| ✅ | Serverless Incident Processing |
-| ✅ | AI-powered Incident Analysis |
-| ✅ | Risk Scoring Engine |
-| ✅ | MITRE ATT&CK Mapping |
-| ✅ | Software Bill of Materials (SBOM) |
-| ✅ | Static Application Security Testing (SAST) |
-| ✅ | Software Composition Analysis (SCA) |
-| ⏳ | Interactive Security Dashboard |
-| ⏳ | Amazon GuardDuty Integration |
-| ⏳ | Amazon Inspector Integration |
-| ⏳ | AWS Security Hub Integration |
-| ⏳ | PDF Report Generation |
-| ⏳ | Slack & Microsoft Teams Notifications |
-| ⏳ | Multi-user Authentication |
-| ⏳ | REST API |
-| ⏳ | Kubernetes Deployment |
 
 ---
 
@@ -1028,44 +973,6 @@ The project follows several cloud security best practices.
 
 ---
 
-# ❓ Frequently Asked Questions
-
-### What problem does AGO solve?
-
-AGO automates vulnerability analysis, software supply chain assessment, AI-assisted incident reporting, and security notifications.
-
----
-
-### Does AGO replace security scanners?
-
-No.
-
-AGO integrates multiple scanners such as Trivy, Syft, and Semgrep, then combines and analyzes their findings.
-
----
-
-### Does AGO automatically fix vulnerabilities?
-
-No.
-
-AGO focuses on detection, analysis, prioritization, reporting, and notification. Automated remediation is planned for future versions.
-
----
-
-### Why use AI?
-
-Large vulnerability reports are difficult to review manually.
-
-Gemini AI summarizes findings, explains their impact, and recommends remediation steps, helping security analysts prioritize their work.
-
----
-
-### Is AGO production ready?
-
-This project is a proof-of-concept demonstrating how AI, AWS serverless services, and modern security tools can be combined into an automated incident response workflow. It can be extended with authentication, dashboards, additional integrations, and remediation capabilities for production use.
-
----
-
 # 🙌 Acknowledgements
 
 This project was built using several excellent open-source tools and cloud services.
@@ -1079,16 +986,9 @@ This project was built using several excellent open-source tools and cloud servi
 - Docker
 - Python Community
 
----
 
-<div align="center">
 
-## 🚀 Thank You for Exploring AGO
 
-**If you found this project useful, consider giving it a ⭐ on GitHub.**
 
-It helps others discover the project and motivates future development.
-
-</div>
 
 
